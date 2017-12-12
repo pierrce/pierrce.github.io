@@ -1,10 +1,10 @@
-## Welcome to my Personal Portfolio
+# Welcome to my Personal Portfolio
 
 Here is where I will be storing a portfolio of my lifes work. I will putting videos, artwork, screeshots, and examples of everything I've ever worked on within this site. 
 
 While my work is very important to me, I also find it important to share personal matters like hobbies. In the field of game development/design, being able to critically review games and game components is just as important as being able to create them. For this reason, I will also be sharing thoughts and concerns I have for specific games and the video game industry as a whole.
 
-### About
+## About
 
 My name is Alec Pierce and I'm from the Twin Cities, MN. I have a Computer Sciences Major from the University of Wisconsin -- Madison and have a passion for the video game industry. Ever since I was a kid, I've been interested in video games. Being able to get lost in a good story or grind for a specific achievement within a video game has always held the same merit to me as achieving goals and reading good books in the real world. 
 
