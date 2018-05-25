@@ -9,7 +9,8 @@ was a little rough at first, but after practicing for months and becoming accust
 
 ## SojournVR
 
-The majority of the models within SojournVR were custom made. Myself and one other individual created all of the custom meshes used within the game. These buildings were created with components create in
-Blender and assembled together in Unity.
+The majority of the models within SojournVR were custom made. Myself and two other individuals created all of the custom meshes used within the game. These buildings were created with components  in Blender and assembled together in Unity.
+
+![Building Wall](https://pierrce.github.io/images/houseexample.PNG)
 
 ## VRChat
