@@ -1,6 +1,6 @@
 ---
 title: Blender
-permalink: pierrce.github.io/blender
+permalink: /blender/
 ---
 
 # Introduction
@@ -9,4 +9,7 @@ was a little rough at first, but after practicing for months and becoming accust
 
 ## SojournVR
 
-The majority of the models within SojournVR were custom made. Myself and one other individual created all of the custom meshes used within the game. 
+The majority of the models within SojournVR were custom made. Myself and one other individual created all of the custom meshes used within the game. These buildings were created with components create in
+Blender and assembled together in Unity.
+
+## VRChat
