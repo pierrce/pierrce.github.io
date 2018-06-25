@@ -38,4 +38,8 @@ Having picked up a Vive, I became extremely addicted to the VR medium. I fed off
 
 Having developed a VR RPG through the Unity platform, I've gained an immense amount of experience. The tools I've used and mastered will be discussed in in-depth on their own pages found below.
 
+After my work on SojournVR, I continued practicing game development by creating custom models,
+animations, shaders, textures, and particle effects for VRChat through Unity. This will also be
+touched up on in the following pages.
+
 * [Blender](https://pierrce.github.io/blender)
