@@ -34,3 +34,5 @@ Having picked up a Vive, I became extremely addicted to the VR medium. I fed off
 ## Experience
 
 Having developed a VR RPG through the Unity platform, I've gained an immense amount of experience. The tools I've used and mastered will be discussed in in-depth on their own pages found below.
+
+* [Blender](https://pierrce.github.io/blender)
