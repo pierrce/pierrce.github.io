@@ -10,14 +10,14 @@ While my work is very important to me, I also find it important to share persona
 
 ## Websites
 
-[Github](https://github.com/pierrce)
-[LinkedIn](https://linkedin.com/in/pierrce)
-[Steam](https://steamcommunity.com/id/pierrce)
-[SojournVR](https://store.steampowered.com/app/667050/SojournVR/)
-[Twitter](https://twitter.com/pierrcevr)
-[Twitch](https://twitch.tv/pierrce_tv)
-[Instagram](https://www.instagram.com/pierrceinsta/)
-[SoundCloud](https://soundcloud.com/pierrcesc)
+* [Github](https://github.com/pierrce)
+* [LinkedIn](https://linkedin.com/in/pierrce)
+* [Steam](https://steamcommunity.com/id/pierrce)
+* [SojournVR](https://store.steampowered.com/app/667050/SojournVR/)
+* [Twitter](https://twitter.com/pierrcevr)
+* [Twitch](https://twitch.tv/pierrce_tv)
+* [Instagram](https://www.instagram.com/pierrceinsta/)
+* [SoundCloud](https://soundcloud.com/pierrcesc)
 
 ## About
 
@@ -31,6 +31,6 @@ While I learned more and more about the industry through creating mods and learn
 
 Having picked up a Vive, I became extremely addicted to the VR medium. I fed off this addiction and turned it into motivation for starting my own company. Our first project was an online VR RPG - SojournVR. For a year I spent 40-60hrs/day nearly every day learning how to better model, code, use Unity, create animations, design sounds, and create a world that I was proud of and could share with others. In October of 2017 my fantasy had become a reality and was launched into Early Access onto Steam.
 
-### Experience
+## Experience
 
 Having developed a VR RPG through the Unity platform, I've gained an immense amount of experience. The tools I've used and mastered will be discussed in in-depth on their own pages found below.
