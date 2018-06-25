@@ -19,8 +19,8 @@ After selling the IP of SojournVR, I continued to expand my knowledge of Blender
 custom models and animations for the popular VR game - [VRChat](https://www.vrchat.net/).
 The first model I produced, and still my most popular to this day, was Mothman.
 
-![Mothman](https://pierrce.github/io/images/mothman.jpg)
+![Mothman](https://pierrce.github.io/images/mothman.jpg)
 
-#### (I like to believe some Bethesda designer got the idea for whatever this is from me.)
+#### I like to believe a Bethesda designer got the idea for this is from me.
 
 ![Mothman?](https://i.redd.it/j7o1iirboa311.png)
