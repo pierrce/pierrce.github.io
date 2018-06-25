@@ -21,6 +21,10 @@ The first model I produced, and still my most popular to this day, was Mothman.
 
 ![Mothman](https://pierrce.github.io/images/mothman.jpg)
 
-#### I like to believe a Bethesda designer got the idea for this is from me.
+#### I like to believe a Bethesda designer got the idea for this from me.
 
 ![Mothman?](https://i.redd.it/j7o1iirboa311.png)
+
+Aside from creating the mesh for Mothman from scratch, I also added a variety of custom facial
+animations for him using shape keys. On top of that, I also did all the custom UV unwrapping
+and texturing using [Paint.net](https://www.getpaint.net/download.html) on Windows 10.
