@@ -43,3 +43,6 @@ animations, shaders, textures, and particle effects for VRChat through Unity. Th
 touched up on in the following pages.
 
 * [Blender](https://pierrce.github.io/blender)
+* [Unity](https://pierrce.github.io/unity)
+* [SpeedTree](https://pierrce.github.io/speedtree)
+* [World Machine](https://pierrce.github.io/worldmachine)
