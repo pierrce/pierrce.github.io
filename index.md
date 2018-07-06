@@ -53,3 +53,6 @@ This will be where I will be posting humble-brags that I am proud of.
 
 ### 1. Leetcode Problem 2 C++ Submission
 ![alt text](https://pierrce.github.io/images/happy.png "Leetcode Problem 2")
+
+### 2. Leetcode Problem 1 C++ Submissions
+![alt text](https://pierrce.github.io/images/hype.png "Leetcode Problem 1")
