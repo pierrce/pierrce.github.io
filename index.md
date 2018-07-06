@@ -49,7 +49,7 @@ touched up on in the following pages.
 
 ## Achievements
 
-This will be where I will be posting humble-brags that I am proud of.
+This is where I will be posting humble-brags that I am proud of. May turn into its own page eventually.
 
 ### 1. Leetcode Problem 2 C++ Submission
 ![alt text](https://pierrce.github.io/images/happy.png "Leetcode Problem 2")
