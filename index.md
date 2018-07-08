@@ -16,13 +16,15 @@ While my work is very important to me, I also find it important to share persona
 | Website    | About         
 | ------------- |:-------------
 | [Github](https://github.com/pierrce)    | A collection of code and programs I have written.
-| [LinkedIn](https://linkedin.com/in/pierrce)    | My professional profile or job inquiries.     
+| [LinkedIn](https://linkedin.com/in/pierrce)    | My professional profile for job inquiries.     
 | [Steam](https://steamcommunity.com/id/pierrce) | My Steam profile for gaming.     
 | [SojournVR](https://store.steampowered.com/app/667050/SojournVR/) | Store page for a VR game I worked on.
 | [Twitter](https://twitter.com/pierrcevr) | My personal Twitter account.
 | [Twitch](https://twitch.tv/pierrce_tv) | My personal Twitch account.
 | [Instagram](https://www.instagram.com/pierrceinsta/) | My personal Instagram account.
 | [SoundCloud](https://soundcloud.com/pierrcesc) | Where I share music and sound effects I've produced.
+| [LeetCode](https://leetcode.com/pierrce/) | A site I use to learn languages and practice for interviews.
+| [Patreon](https://www.patreon.com/pierrce) | My personal Patreon page.
 
 ## About
 
