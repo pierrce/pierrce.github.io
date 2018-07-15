@@ -22,6 +22,8 @@ While my work is very important to me, I also find it important to share persona
 | [Twitter](https://twitter.com/pierrcevr) | My personal Twitter account.
 | [Twitch](https://twitch.tv/pierrce_tv) | My personal Twitch account.
 | [Instagram](https://www.instagram.com/pierrceinsta/) | My personal Instagram account.
+| [YouTube](https://www.youtube.com/channel/UCGSwH9k2xJjrfi0QUokF8qQ?view_as=subscriber) | Where I post videos of what I'm working on.
+| [DeviantArt](https://www.deviantart.com/pierrce) | A place for me to share GIFs and pixel-art of my games.
 | [SoundCloud](https://soundcloud.com/pierrcesc) | Where I share music and sound effects I've produced.
 | [LeetCode](https://leetcode.com/pierrce/) | A site I use to learn languages and practice for interviews.
 | [Patreon](https://www.patreon.com/pierrce) | My personal Patreon page.
