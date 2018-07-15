@@ -46,17 +46,23 @@ After my work on SojournVR, I continued practicing game development by creating 
 animations, shaders, textures, and particle effects for VRChat through Unity. This will also be
 touched up on in the following pages.
 
-* [Blender](https://pierrce.github.io/blender)
-* [Unity](https://pierrce.github.io/unity)
-* [SpeedTree](https://pierrce.github.io/speedtree)
-* [World Machine](https://pierrce.github.io/worldmachine)
+| Software    | Overview         
+| ------------- |:-------------
+| [Blender](https://pierrce.github.io/blender)   | Modeling, Animation, Shape-keys, Visemes, Rigging.
+| [Unity](https://pierrce.github.io/unity)   | Creating prefabs, animations, materials, sprite sheets, everything.
+| [SpeedTree](https://pierrce.github.io/speedtree) | The ins and outs of Speed Tree.    
+| [World Machine](https://pierrce.github.io/worldmachine) | Everything there is to know about World Machine.
+| [Paint.net](https://pierrce.github.io/paintnet) | Everything paint.net and some plugins.
+| [Docker](https://pierrce.github.io/docker) | The basics of Docker and classes/projects I've worked on.
+| [Discord](https://pierrce.github.io/discord)| I am a Discord fanatic and use it for everything.
+| [Slack](https://pierrce.github.io/slack)| I use Slack and write bots for it when need be.
 
 ## Achievements
 
 This is where I will be posting humble-brags that I am proud of. May turn into its own page eventually.
 
 ### 1. Leetcode Problem 2 C++ Submission
-![alt text](https://pierrce.github.io/images/happy.png "Leetcode Problem 2")
+![alt text](https://pierrce.github.io/images/hype.PNG "Leetcode Problem 1")
 
 ### 2. Leetcode Problem 1 C++ Submission
-![alt text](https://pierrce.github.io/images/hype.PNG "Leetcode Problem 1")
+![alt text](https://pierrce.github.io/images/happy.png "Leetcode Problem 2")
