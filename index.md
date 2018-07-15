@@ -19,10 +19,6 @@ I am currently working on a game called Scape. Its a cyber punk rogue-like using
 
 ## Websites
 
-<details>
-<summary>I've added this dropdown since the list is getting pretty long.</summary>
-<br>
-
 | Website    | About         
 | ------------- |:-------------
 | [Github](https://github.com/pierrce)    | A collection of code and programs I have written.
@@ -37,8 +33,6 @@ I am currently working on a game called Scape. Its a cyber punk rogue-like using
 | [SoundCloud](https://soundcloud.com/pierrcesc) | Where I share music and sound effects I've produced.
 | [LeetCode](https://leetcode.com/pierrce/) | A site I use to learn languages and practice for interviews.
 | [Patreon](https://www.patreon.com/pierrce) | My personal Patreon page.
-
-</details>
 
 ## About
 
