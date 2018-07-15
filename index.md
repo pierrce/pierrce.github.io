@@ -11,6 +11,12 @@ representation of myself, please visit my [LinkedIn](https://linkedin.com/in/pie
 
 While my work is very important to me, I also find it important to share personal matters like hobbies. In the field of game development/design, being able to critically review games and game components is just as important as being able to create them. For this reason, I will also be sharing thoughts and concerns I have for specific games and the video game industry as a whole.
 
+## Current Works
+
+I am currently working on a game called Scape. Its a cyber punk rogue-like using pixel art. You'll have to fight your way through mobs of enemies to escape a reality trying to kill you.
+
+[![Scape Rogue-Like](http://img.youtube.com/vi/4N8u5OHmooo/0.jpg)](https://www.youtube.com/watch?v=4N8u5OHmooo)
+
 ## Websites
 
 | Website    | About         
