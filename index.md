@@ -32,7 +32,6 @@ I am currently working on a game called Scape. Its a cyber punk rogue-like using
 | [DeviantArt](https://www.deviantart.com/pierrce) | A place for me to share GIFs and pixel-art of my games.
 | [SoundCloud](https://soundcloud.com/pierrcesc) | Where I share music and sound effects I've produced.
 | [LeetCode](https://leetcode.com/pierrce/) | A site I use to learn languages and practice for interviews.
-| [Patreon](https://www.patreon.com/pierrce) | My personal Patreon page.
 | [Quora](https://www.quora.com/profile/Pierrce) | Answers and questions on Quora.
 
 ## About
