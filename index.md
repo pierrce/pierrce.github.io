@@ -48,7 +48,7 @@ As of August 2018, I've been working for a health care company called Karuna Lab
 
 ### Music
 
-I love to play and listen to music. My tastes in music is very broad, but generally I listen to alternative rock, soft electronica, and new-age jazz. When I play music, it also ranges from metal and rock, to jazz and folk. Below you can find some of the albums I enjoy most and some general thoughts on them. I will eventually turn this into its own page since I have a lot to say about certain albums and songs.
+I love to play and listen to music. My tastes in music are very broad, but generally I listen to alternative rock, soft electronica, and new-age jazz. When I play music, it also ranges from metal and rock, to jazz and folk. Below you can find some of the albums I enjoy most and some general thoughts on them. I will eventually turn this into its own page since I have a lot to say about certain albums and songs.
 
 | Album   | Artist | Brief Thoughts      
 | ------------- |:-------------|:-------------
