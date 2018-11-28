@@ -44,6 +44,8 @@ While I learned more and more about the industry through creating mods and learn
 
 Having picked up a Vive, I became extremely addicted to the VR medium. I fed off this addiction and turned it into motivation for starting my own company. Our first project was an online VR RPG - SojournVR. For a year I spent 40-60hrs/day nearly every day learning how to better model, code, use Unity, create animations, design sounds, and create a world that I was proud of and could share with others. In October of 2017 my fantasy had become a reality and was launched into Early Access onto Steam.
 
+As of August 2018, I've been working for a health care company called Karuna Labs - based out of San Francisco. We develop VR exercises and worlds to treat people with chronic pain! To read more about it, visit: https://www.karunalabs.com/
+
 ## Experience
 
 Having developed a VR RPG through the Unity platform, I've gained an immense amount of experience. The tools I've used and mastered will be discussed in in-depth on their own pages found below.
