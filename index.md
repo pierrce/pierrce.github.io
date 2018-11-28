@@ -34,7 +34,7 @@ I am currently working on a game called Scape. Its a cyber punk rogue-like using
 
 ## About
 
-My name is Alec Pierce and I'm from Saint Paul, MN. I have a Computer Sciences Major from the University of Wisconsin -- Madison and have a passion for the video game industry. Ever since I was a kid, I've been interested in video games. Being able to get lost in a good story or grind for a specific achievement within a video game has always held the same merit to me as achieving goals and reading good books in the real world.
+My name is Alec Pierce and I'm from Saint Paul, MN. I have a Bachelor of Science in Computer Sciences from the University of Wisconsin -- Madison and have a passion for the video game industry. Ever since I was a kid, I've been interested in video games. Being able to get lost in a good story or grind for a specific achievement within a video game has always held the same merit to me as achieving goals and reading good books in the real world.
 
 Since I was in middle school I always wanted to design games. I started off with creating little scripts and skins for Roblox and messing around with web development. Once I entered high school I started writing Python scripts and getting into 3D modeling through Solid Works. As I entered university, my knowledge of programming took off and in my free time I would constantly be writing mods for the games I enjoyed including: Minecraft, Starbound, Project Zomboid, and Terraria.
 
