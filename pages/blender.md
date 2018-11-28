@@ -9,15 +9,17 @@ was a little rough at first, but after practicing for months and becoming accust
 
 ## SojournVR
 
-The majority of the models within SojournVR were custom made. Myself and two other individuals created all of the custom meshes used within the game. These buildings were created with components  in Blender and assembled together in Unity.
+The majority of the models within SojournVR were custom made. Myself and two other individuals created all of the custom meshes used within the game. We created everything from weapons to buildings, characters to environment pieces with Blender.
 
 ![Building Wall](https://pierrce.github.io/images/houseexample.PNG)
 
+ These buildings were created with components in Blender and assembled together in Unity. Utilizing the prefab feature of Unity, the individual components turned out pretty good when put together!
+
+ ![Assembled Building](https://pierrce.github.io/images/firstthatchedroof.PNG)
+
 ## VRChat
 
-After selling the IP of SojournVR, I continued to expand my knowledge of Blender by creating
-custom models and animations for the popular VR game - [VRChat](https://www.vrchat.net/).
-The first model I produced, and still my most popular to this day, was Mothman.
+After selling the IP of SojournVR, I continued to expand my knowledge of Blender by creating custom models and animations for the popular VR game - [VRChat](https://www.vrchat.net/). I started off just importing existing models and re-rigging them using Blender and the CATS Blender Plugin, however, I eventually started making models from scratch! The first model I produced this way, and still my most popular to this day, was this little Mothman.
 
 ![Mothman](https://pierrce.github.io/images/mothman.jpg)
 
