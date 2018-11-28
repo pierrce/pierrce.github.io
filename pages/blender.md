@@ -36,4 +36,4 @@ Eventually I started developing models and avatars from scratch! The first model
 
 ![Mothman?](https://i.redd.it/j7o1iirboa311.png)
 
-Aside from creating the mesh for Mothman from scratch, I also added a variety of custom facial animations for him using shape keys. On top of that, I also did all the custom UV unwrapping and texturing using [Paint.net](https://www.getpaint.net/download.html) on Windows 10.
+Aside from creating the mesh for Mothman from scratch, I also added a variety of custom facial animations for him using shape keys. On top of that, I did all the custom UV unwrapping and texturing using [Paint.net](https://www.getpaint.net/download.html) and [TexTools](http://renderhjs.net/textools/blender/) (another blender plugin)!

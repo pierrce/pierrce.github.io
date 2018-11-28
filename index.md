@@ -46,6 +46,14 @@ Having picked up a Vive, I became extremely addicted to the VR medium. I fed off
 
 As of August 2018, I've been working for a health care company called Karuna Labs - based out of San Francisco. We develop VR exercises and worlds to treat people with chronic pain! To read more about it, visit [here.](https://www.karunalabs.com/) 
 
+### Music
+
+I love to play and listen to music. My tastes in music is very broad, but generally I listen to alternative rock, soft electronica, and new-age jazz. When I play music, it also ranges from metal and rock, to jazz and folk. Below you can find some of the albums I enjoy most and some general thoughts on them. I will eventually turn this into its own page since I have a lot to say about certain albums and songs.
+
+| Album   | Artist | Brief Thoughts      
+| ------------- |:-------------|:-------------
+| [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD?si=lzQ5r53zT1efw7aRSy-Jgg)|[Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam?si=V0U-zaBbTTazpTwXsJCe0w)| This entire album has a story behind it which I love. It has songs that are soft and emotional to upbeat and gets you pumped up to do something. Great album to code to.
+
 ## Experience
 
 Having developed a VR RPG through the Unity platform, I've gained an immense amount of experience. The tools I've used and mastered will be discussed in in-depth on their own pages found below.
