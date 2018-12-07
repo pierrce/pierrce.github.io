@@ -9,8 +9,6 @@ After discovering Unity in 2015, I've used it for nearly every project I've star
 
 ## Plugins and Assets
 
-<details>
-<summary>**Plugin and Asset List**</summary>
-|Plugin|Summary|
+|**Plugin**|**Summary**|
 |:-----|:------|
 |[AllSky](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-10109)|A great skybox asset with over 160 skyboxes|
