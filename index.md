@@ -30,7 +30,6 @@ I am currently working on a game called Scape. Its a cyber punk rogue-like using
 | [Instagram](https://www.instagram.com/pierrceinsta/) | My personal Instagram account.
 | [YouTube](https://www.youtube.com/channel/UCGSwH9k2xJjrfi0QUokF8qQ?view_as=subscriber) | Where I post videos of what I'm working on.
 | [LeetCode](https://leetcode.com/pierrce/) | A site I use to learn languages and practice for interviews.
-| [Quora](https://www.quora.com/profile/Pierrce) | Answers and questions on Quora.
 
 ## About
 
