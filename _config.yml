@@ -3,3 +3,9 @@ theme: minima
 title: Pierrce
 description: The works of Pierrce
 
+minima:
+        social_links:
+                twitter: pierrcedesign
+                github: pierrce
+                instagram: pierrceinsta
+                linkedin: pierrce
