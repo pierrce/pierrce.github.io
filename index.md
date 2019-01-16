@@ -2,8 +2,6 @@
 title: Home
 ---
 
-# Welcome to my Personal Portfolio
-
 Here is where I will be storing a portfolio of my life's work. I will be putting videos, artwork, screenshots, and examples of everything I've ever worked on within this site. This portfolio will
 be a representation of who I am as a person. Like most people, I have a professional side, and a
 fun side. This site will be a combination of both. If you would like to see a strictly professional
@@ -11,13 +9,13 @@ representation of myself, please visit my [LinkedIn](https://linkedin.com/in/pie
 
 While my work is very important to me, I also find it important to share personal matters like hobbies. In the field of game development/design, being able to critically review games and game components is just as important as being able to create them. For this reason, I will also be sharing thoughts and concerns I have for specific games and the video game industry as a whole.
 
-## Current Works
+### Current Works
 
 I am currently working on a game called Scape. Its a cyber punk rogue-like using pixel art. You'll have to fight your way through mobs of enemies to escape a reality trying to kill you.
 
 [![Scape Rogue-Like](http://img.youtube.com/vi/4N8u5OHmooo/0.jpg)](https://www.youtube.com/watch?v=4N8u5OHmooo)
 
-## Websites
+### Websites
 
 | Website    | About         
 | ------------- |:-------------
@@ -31,7 +29,7 @@ I am currently working on a game called Scape. Its a cyber punk rogue-like using
 | [YouTube](https://www.youtube.com/channel/UCGSwH9k2xJjrfi0QUokF8qQ?view_as=subscriber) | Where I post videos of what I'm working on.
 | [LeetCode](https://leetcode.com/pierrce/) | A site I use to learn languages and practice for interviews.
 
-## About
+### About
 
 My name is Alec Pierce and I'm from Saint Paul, MN. I have a Bachelor of Science in Computer Sciences from the University of Wisconsin -- Madison and have a passion for the video game industry. Ever since I was a kid, I've been interested in video games. Being able to get lost in a good story or grind for a specific achievement within a video game has always held the same merit to me as achieving goals and reading good books in the real world.
 
@@ -53,7 +51,7 @@ I love to play and listen to music. My tastes in music are very broad, but gener
 | ------------- |:-------------|:-------------
 | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD?si=lzQ5r53zT1efw7aRSy-Jgg)|[Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam?si=V0U-zaBbTTazpTwXsJCe0w)| This entire album has a story behind it which I love. It has songs that are soft and emotional to upbeat and gets you pumped up to do something. Great album to code to.
 
-## Experience
+### Experience
 
 Having developed a VR RPG through the Unity platform, I've gained an immense amount of experience. The tools I've used and mastered will be discussed in in-depth on their own pages found below.
 
@@ -72,12 +70,12 @@ touched up on in the following pages.
 | [Discord](https://pierrce.github.io/discord)| I am a Discord fanatic and use it for everything.
 | [Slack](https://pierrce.github.io/slack)| I use Slack and write bots for it when need be.
 
-## Achievements
+### Achievements
 
 This is where I will be posting humble-brags that I am proud of. May turn into its own page eventually.
 
-### 1. Leetcode Problem 1 C++ Submission
+#### 1. Leetcode Problem 1 C++ Submission
 ![alt text](https://pierrce.github.io/images/hype.PNG "Leetcode Problem 1")
 
-### 2. Leetcode Problem 2 C++ Submission
+#### 2. Leetcode Problem 2 C++ Submission
 ![alt text](https://pierrce.github.io/images/happy.png "Leetcode Problem 2")
