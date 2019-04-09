@@ -25,13 +25,13 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "https://www.facebook.com/alec.pierce.9883"
   flickr:
   gitlab:
   github: "pierrce"
-  google_plus:
+  google_plus: 
   instagram: "pierrceinsta"
-  keybase:
+  keybase: 
   linkedin: "https://www.linkedin.com/in/pierrce/" # Full URL
   pinterest:
   reddit: "pierrce"
@@ -42,7 +42,7 @@ theme_settings:
   twitter: "pierrcedesign" # "twitter username"
   vimeo:
   wordpress:
-  youtube:
+  youtube: "https://www.youtube.com/channel/UCGSwH9k2xJjrfi0QUokF8qQ?view_as=subscriber"
   
   # Sharing options
   share_buttons:
