@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://pierrce.github.io"
-title: Portfolio # site's title
+title: Pierrce Portfolio # site's title
 description: "A portfolio and blog by Alec Pierce aka Pierrce" # used by search engines
 
 
@@ -17,7 +17,7 @@ theme_settings:
   header_text: Welcome to my Portfolio and Blog
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+    Copyright © 2019 Alec Pierce
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
