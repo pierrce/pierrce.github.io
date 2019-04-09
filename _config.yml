@@ -1,45 +1,45 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://pierrce.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: Portfolio # site's title
+description: "A portfolio and blog by Alec Pierce aka Pierrce" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: Pierrce # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
-  header_text: Change header text in <code>_config.yml</code>
+  header_text: Welcome to my Portfolio and Blog
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: alec.m.pierce@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "pierrce"
   google_plus:
-  instagram:
+  instagram: "pierrceinsta"
   keybase:
-  linkedin:  # Full URL
+  linkedin: "https://www.linkedin.com/in/pierrce/" # Full URL
   pinterest:
-  reddit:
+  reddit: "pierrce"
   soundcloud:
   stack_exchange:  # Full URL
-  steam:
+  steam: "pierrce"
   tumblr:
-  twitter: # "twitter username"
+  twitter: "pierrcedesign" # "twitter username"
   vimeo:
   wordpress:
   youtube:
@@ -53,7 +53,7 @@ theme_settings:
     pinterest:
     pocket:
     reddit: true
-    linkedin:
+    linkedin: true
     wordpress:
     email: true
 
